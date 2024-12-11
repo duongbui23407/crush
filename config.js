@@ -13,7 +13,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao ai đó lại yêu mình 🤣',
     btnReply: '💖 Gửi cho Dương 💖',
     reply: 'Yêu thì yêu mà không yêu thì yêu 😋',
-    mess: 'Đậu biết mà 🥰. Yêu ai đó nhiều nhiều 😘😘',
+    mess: '    Dương biết mà 🥰. Yêu ai đó nhiều nhiều 😘😘',
     messDesc: 'Anh hứa , sau này có tiền anh sẽ nuôi em thành HEO.',
     btnAccept: 'Okiiiii lun 🥰',
     messLink: 'https://github.com/duongbui23407/to-tinh-crush.git' //link mess của các bạn.
